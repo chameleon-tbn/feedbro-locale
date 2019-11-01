@@ -214,7 +214,7 @@
     "navigator_ctxmenu_delete": "Löschen",
     "navigator_ctxmenu_updatefeed": "Feed aktualisieren",
     "navigator_ctxmenu_properties": "Einstellungen",
-    "navigator_ctxmenu_updatefolder": "Feeds iim Ordner aktualisieren",
+    "navigator_ctxmenu_updatefolder": "Feeds im Ordner aktualisieren",
     "navigator_ctxmenu_updatefeed_success": "Feedeinträge aus der Feedquelle geladen",
     "navigator_ctxmenu_updatefolder_success": "Feeds aus den Feedquellen in den Ordner geladen",
     "navigator_tree_error_underfeed": "Elemente können nicht unter Feeds verschoben werden.",
