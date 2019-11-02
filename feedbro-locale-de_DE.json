@@ -1,13 +1,13 @@
 {
     "meta": {
         "manifest_version": 2,
-        "locale_version": "1.1",
+        "locale_version": "1.2",
         "locale_name": "Deutsch",
         "locale_type": "de_DE",
-        "locale_last_updated": "2019-11-01 12:00:00 UTC",
-        "locale_author_name": "nodetics",
-        "locale_author_email": "nodetics@gmail.com",
-        "locale_source_url": "https://github.com/thebugfixnet/feedbro-locale/blob/master/feedbro-locale-de_DE.json"
+        "locale_last_updated": "2019-11-02 12:00:00 UTC",
+        "locale_author_name": "thebugfix.net",
+        "locale_author_email": "mail@thebugfix.net",
+        "locale_source_url": "https://raw.githubusercontent.com/thebugfixnet/feedbro-locale/master/feedbro-locale-de_DE.json"
     },
     "addfeed_url_body": "Feed URL",
     "addfeed_load_body": "Laden",
@@ -63,9 +63,9 @@
     "article_header_clickopen": "Klicken zum Öffnen",
     "article_action_delete_tag": "Schlagwort löschen",
     "article_action_add_tag": "Schlagwort hinzufügen",
-    "article_action_enclosure_view": "View",
-    "article_action_enclosure_view_enclosure": "enclosure:",
-    "article_action_enclosure_label": "Enclosure:",
+    "article_action_enclosure_view": "Öffne",
+    "article_action_enclosure_view_enclosure": "Anhang:",
+    "article_action_enclosure_label": "Anhang:",
     "bookmarks_header_body": "Firefox Lesezeichen importieren",
     "bookmarks_savebookmarksguide_body": "Firefox-Lesezeichen als HTML speichern:\nIn Firefox: Menü | Bibliothek | Lesezeichen | Alle Lesezeichen, Menü 'Importieren und Sichern' und dann 'Lesezeichen in HTML exportieren...'.",
     "bookmarks_salectfile_body": "Gespeicherte Firefox-Lesezeichen-HTML-Datei auswählen:",
