@@ -208,7 +208,7 @@
     "navigator_action_addfolder_prompt": "Ordnername",
     "navigator_action_addfolder_toolong": "Der Name muss zwischen 1 und 35 Zeichen lang sein!",
     "navigator_action_reload": "Startet das Scannen aller Feeds nach neuen Beiträgen. Dies kann sehr lange dauern. Normalerweise sollte dies überhaupt nicht erforderlich sein. Bitte warten...",
-    "navigator_ctxmenu_markread": "Alle Beiträge als gelesen markieren",
+    "navigator_ctxmenu_markread": "Alles als gelesen markieren",
     "navigator_ctxmenu_rename": "Umbenennen",
     "navigator_ctxmenu_sortfeeds": "Feeds im Ordner sortieren",
     "navigator_ctxmenu_delete": "Löschen",
