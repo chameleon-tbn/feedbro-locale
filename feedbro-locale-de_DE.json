@@ -9,7 +9,7 @@
         "locale_author_email": "mail@thebugfix.net",
         "locale_source_url": "https://raw.githubusercontent.com/thebugfixnet/feedbro-locale/master/feedbro-locale-de_DE.json"
     },
-    "addfeed_url_body": "Feed URL",
+    "addfeed_url_body": "Feed-URL",
     "addfeed_load_body": "Laden",
     "addfeed_title_body": "Titel",
     "addfeed_latestentry_body": "Letzter Eintrag veröffentlicht",
@@ -394,7 +394,7 @@
     "ruleform_condition_ignorecase_title": "Unterschiede zwischen Klein- und Großbuchstaben bei der Übereinstimmung ignorieren (ineffizienter)",
     "ruleform_condition_casesensitive_body": "beachten",
     "ruleform_condition_casesensitive_title": "Suche nach Klein- und Großbuchstaben (effizienter)",
-    "ruleform_condition_matching_body": ".",
+    "ruleform_condition_matching_body": "",
     "ruleform_condition_add_body": "Bedingung hinzufügen",
     "ruleform_action_name_body": "Aktion",
     "ruleform_action_remove_title": "Aktion entfernen",
