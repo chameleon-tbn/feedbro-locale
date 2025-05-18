@@ -289,7 +289,7 @@
     "options_markread_manually_body": "Manuell",
     "options_markread_confirm_body": "Bestätigungsdialog für die Funktion 'Als gelesen markieren'",
     "options_markread_confirm_never_body": "Nie",
-    "options_markread_confirm_never_title": "ACHTUNG! Es können versehentlich alle ungelesenen Artikel als gelesen markiert werden, wenn diese Einstellung aktiviert ist! Es gibt kein Rückgängig-machen!",
+    "options_markread_confirm_never_title": "ACHTUNG! Es können versehentlich alle ungelesenen Artikel als gelesen markiert werden, wenn diese Einstellung aktiviert ist! Es gibt keine Rückgängigmachung!",
     "options_markread_confirm_allitems_body": "Nur wenn die Ansicht 'Alle Elemente als gelesen markieren' gewählt wird",
     "options_markread_confirm_always_body": "Immer",
     "options_notificationclick_body": "Klick auf Desktop-Benachrichtigungs-Popup",
